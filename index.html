@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class = "background">
+        <span style = "--i:1"></span>
+        <span style = "--i:2"></span>
+        <span style = "--i:3"></span>
+        <span style = "--i:4"></span>
+        <span style = "--i:5"></span>
+        <div class = "main-container">
+            <h2>Todo App</h2>
+            <div class="todo-input-container">
+                <form id="todo-form">
+                    <input type="text" id="todo-input" placeholder="Add Task" required>
+                    <button type="submit" onclick="addTask()">Add</button>
+                </form>
+            </div>
+            <ul id="todo-list"></ul>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
