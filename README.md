@@ -12,7 +12,7 @@ A stylish and simple Todo application built using **HTML**, **CSS**, and **JavaS
 
 ## 🎥 Demo
 
-![Demo Screenshot](screenshot.png) <!-- Replace with actual screenshot if available -->
+https://todo-app-gilt-two-84.vercel.app/
 
 ## 🛠️ Technologies Used
 
