@@ -20,6 +20,5 @@ A stylish and simple Todo application built using **HTML**, **CSS**, and **JavaS
 - CSS3 (with `backdrop-filter`, gradients, animations)
 - JavaScript (Vanilla)
 
-## 📂 Project Structure
 
 
